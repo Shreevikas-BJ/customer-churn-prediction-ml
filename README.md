@@ -148,7 +148,7 @@ cd customer-churn-prediction-ml
 **2. Create a virtual environment**
 python -m venv venv
 
-## Activate the environment:
+**Activate the environment:**
 
 Windows
 
